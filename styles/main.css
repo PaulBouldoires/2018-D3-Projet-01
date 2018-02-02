@@ -1,0 +1,36 @@
+body {
+/*font-family: 'Oswald', sans-serif;*/
+}
+/*  font-family: 'Libre Baskerville', serif;*/
+
+header{
+background-image: url(images/bg-header-02.jpg);
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+min-height: 70vh;
+display: flex;
+justify-content: right;
+align-items: center;
+text-align: center;
+padding: 3em
+
+}
+/*
+.header-content{
+background-color: rgba(255, 200, 43, 0.5);
+padding: 2em;
+text-align: center;
+}*/
+
+.header-content h1 {
+  font-size: 3em;
+  font-family: 'Oswald', sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: left;
+}
+.header-content p{
+  color: rgb(255, 255, 255);
+  font-family: 'Oswald', sans-serif;
+
+}
